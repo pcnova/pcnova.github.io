@@ -13,7 +13,7 @@ might have something of value to contribute. I have also learned so much from
 countless developers over the years that it's only fair for me to contribute back.
 
 Hopefully you'll find some of my content useful. If you do, please share or
-[follow]. [Happy coding] my friends!
+[follow]. [Happy coding] my friends! :smiley:
 
 ---
 
