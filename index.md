@@ -1,9 +1,10 @@
-Pcnova Init, 04/18/2021
-=======================
+Pcnova Init
+===========
 
-Hello World! I am a Mexican-American software developer currently based out of
-the Mile High City. I intend this to be a space for sharing things I learn in my
-journey through the computing world as, primarily, a .NET developer.
+![Pcnova avatar](assets/pcnova_avatar.jpg) Hello World! I am a Mexican-American
+software developer currently based out of the Mile High City. I intend this to
+be a space for sharing things I learn in my journey through the computing world
+as, primarily, a .NET developer.
 
 Like many developers out there, I've been meaning to blog for quite a while, but
 I just never seemed to have the time or, quite frankly, the courage.
@@ -13,7 +14,7 @@ might have something of value to contribute. I have also learned so much from
 countless developers over the years that it's only fair for me to contribute back.
 
 Hopefully you'll find some of my content useful. If you do, please share or
-[follow]. [Happy coding] my friends! :smiley:
+[follow]. [Happy coding] my friends!
 
 ---
 
