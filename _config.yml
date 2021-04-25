@@ -1,6 +1,6 @@
 theme: jekyll-theme-tactile
-title: Welcome to pcnova's blog!
-description: A space for sharing programming and other technical knowledge.
+title: dotPcnova | Pcnova's software development blog
+description: A space for sharing programming and technical knowledge.
 
 plugins:
   - jemoji
